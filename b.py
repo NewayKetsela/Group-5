@@ -6,7 +6,7 @@ y="hello, world"
 print(y.split( ',')) #for spliting based on ','
 n=50
 print(bin(n)) #explicite casting
-print(hex(n))
+print(hex(n),"\n")
 # logical opraters for and , or,not use 'and','or','not'
 for x in range(2,100):
   if(x%3==0 and x%5==0):
