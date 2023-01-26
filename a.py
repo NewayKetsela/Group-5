@@ -10,6 +10,7 @@ sum(a,b)
 print(x + y + z)
 n=2
 print(type(n))
+
 m="hello world"
 print(len(m))
 print("the ASCI of A is ",ord('A'))
@@ -17,4 +18,6 @@ print(print("heyu"))
 name="NEWAY" 
 age=21.4567
 print("My name is {:s} and I am {:.2f} years old ". format(name,age))
-''" this is multiple line comment ''"
+''' "" this is 
+   multiple line comment 
+   ''' ""
